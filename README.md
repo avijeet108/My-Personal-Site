@@ -1,2 +1,2 @@
 # My-Personal-Site
-My Personal Site made by using HTML and CSS.
+My Personal Site made using HTML and CSS.
